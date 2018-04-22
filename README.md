@@ -23,7 +23,7 @@ npm start
 
 ## Built With
 
-* [React](http://www.dropwizard.io/1.0.2/docs/) - Web framework
+* [React](https://www.npmjs.com/package/react) - Web framework
 * [Antd](https://ant.design//) - UI
 * [Chart.js](https://github.com/jerairrest/react-chartjs-2) - Graphs
 
